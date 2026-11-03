@@ -1,0 +1,2 @@
+# NovaTaxi-releases
+release only
